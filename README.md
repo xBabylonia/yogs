@@ -13,7 +13,7 @@ https://shell.cloud.google.com/
 3. Run gaganode program and generate reward.
 ```
 sudo git clone https://github.com/xBabylonia/yogs.git
-cd gaganode
+cd yogs
 sudo chmod +x gaganode
 sudo apt-get update -y && sudo apt-get -y install curl tar ca-certificates && sudo apt-get -y install screen
 screen -R a2nk
